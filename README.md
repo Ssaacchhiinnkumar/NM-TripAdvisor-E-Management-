@@ -1,4 +1,4 @@
-# NM-TripAdvisor-E-Management-
+# NM-TripAdvisor-E-Management
 Overview The TripAdvisor E-Management App is a Salesforce-based travel management solution designed to streamline trip planning and booking. It allows users to manage hotels, food options, flights, and customer data efficiently while automating key processes such as flight reminders and real-time updates to hotel information. This app enhances operational efficiency, improves customer satisfaction, and ensures accurate data management for travel agencies.
 
 Features Dynamic Food Option Management: Automatically updates the total count of food options linked to hotels. Flight Reminder Notifications: Sends automated reminders for upcoming flights to customers. Customer Discounts: Calculates and applies personalized discounts dynamically. Custom Reports and Dashboards: Provides insights into booking trends and customer preferences.
